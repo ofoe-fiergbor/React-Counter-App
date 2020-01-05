@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 400%;
+}
+.count{
+    border:1px solid black;
+    width: 20%;
+    height: 300px;
+    margin-left:40%;
+    margin-top: 10%;
+    padding-top: 20px;
+    
+}
+button{
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 0;
+    margin: 2px;
+    height: 2rem;
+    
+}
+button:hover{
+    background-color: rgb(47, 47, 241);
+}
